@@ -43,7 +43,8 @@ endmodule
 
 ## Truth Table for 1-Bit Full Adder
 
-![image](https://github.com/user-attachments/assets/0ea58111-49fb-49a4-ad6a-ee36cbf4e479)
+![447001839-6580d034-e392-4fd6-be6f-168834a2af56](https://github.com/user-attachments/assets/a7ecfb1a-6e93-4a39-b52b-7a3c573e5e9d)
+
 
 ## Verilog Code for 4-Bit Ripple carry Adder
 ```verilog
@@ -92,17 +93,20 @@ endmodule
 
 ## Truth Table for 4-Bit Full Adder
 
-![image](https://github.com/user-attachments/assets/567af4cf-875d-448b-b616-40e450d5bbde)
+![444656676-567af4cf-875d-448b-b616-40e450d5bbde](https://github.com/user-attachments/assets/623da1bd-07e3-46d3-8cc4-e7a473647041)
+
 
 
 ## Simulation Results
 
 ### Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
+![446033351-187ebe28-40e2-44b2-9b78-d08bdc67d62c](https://github.com/user-attachments/assets/7839e55e-b069-4be6-9611-ea8b14ef55d2)
+
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+![447001839-6580d034-e392-4fd6-be6f-168834a2af56](https://github.com/user-attachments/assets/0ead4da3-4208-49f2-ad9a-9cf251eab544)
+
 
 
 
