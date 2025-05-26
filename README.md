@@ -1,4 +1,4 @@
-# Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
+## Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
 
 ## Aim
 The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and verify its functionality using **Cadence nclaunch** for simulation.
